@@ -97,6 +97,4 @@ src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarath61&show_icons=true&locale=en" alt="sarath61" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath61&" alt="sarath61" /></p>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sarath61&label=Profile%20views&color=0e75b6&style=flat" alt="sarath61" /> </p>
