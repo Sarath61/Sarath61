@@ -5,7 +5,7 @@
 <br/>
 
 ### 🧐 More About Me:
-- 🔭 I’m currently working on [Advance_Product_Filter_System](https://github.com/Sarath61/Advance_Product_Filter_System)
+- 🔭 I’m currently working on [AI-Tutor](https://github.com/Ajayvarma915/AI-Tutor)
 
 - 🌱 I’m currently learning **TypeScript, CI/CD, Kubernetes and advanced MongoDB concepts**
 
